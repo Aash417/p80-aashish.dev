@@ -27,8 +27,8 @@
 
    /* Make sure the font variables are defined in :root */
    --font-geist-sans: ui-sans-serif, system-ui, sans-serif;
-   --font-geist-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-      monospace;
+   --font-geist-mono:
+      ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -43,5 +43,7 @@
 body {
    color: var(--foreground);
    background: var(--background);
-   font-family: var(--font-geist-sans), var(--font-geist-sans), Arial, Helvetica, sans-serif;
+   font-family:
+      var(--font-geist-sans), var(--font-geist-sans), Arial, Helvetica,
+      sans-serif;
 }
