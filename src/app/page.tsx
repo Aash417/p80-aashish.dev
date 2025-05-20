@@ -9,27 +9,27 @@ const Socials = [
 const FullStackProjects = [
    [
       'suitcase.exchange',
-      'https://suitcaseexchangeshow.vercel.app/',
+      'https://suitcase.exchange.aashishk.works/',
       'A crypto exchange platform for trading digital assets with real-time data',
    ],
    [
       'formaker.com',
-      'https://formakercom.vercel.app/',
+      'https://formaker.aashishk.works/',
       'Generate dynamic forms & collect responses from anyone',
    ],
    [
       'videoLib.com',
-      'https://vlibcom.vercel.app/',
+      'https://vlib.aashishk.works/',
       'Video-sharing platform  upload, watch, and engage with content',
    ],
    [
       'schedule.com',
-      'https://schedule-com-phi.vercel.app/',
+      'https://schedule.aashishk.works/',
       'Project management tool, invite team, track tasks, and manage projects',
    ],
    [
       'chatify.com',
-      'https://chatify-com.vercel.app/',
+      'https://chatify.aashishk.works/',
       'Messaging platform for teams, communication through channels, DM, threads',
    ],
    [
@@ -42,7 +42,7 @@ const FullStackProjects = [
 const FrontendProjects = [
    [
       '3d-fizzi.com',
-      'https://3d-fizzi.vercel.app',
+      'https://fizzi.aashishk.works/',
       'Landing page for a soda can company',
    ],
    [
@@ -77,11 +77,6 @@ const MiniProjects = [
       'ping-pong.com',
       'https://aash417.github.io/p21-pong/',
       'Play a ping pong game',
-   ],
-   [
-      'fast-pizza.com',
-      'https://my-fast-pizza.netlify.app/',
-      'Order a pizza online',
    ],
 ];
 
