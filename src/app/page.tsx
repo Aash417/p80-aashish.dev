@@ -14,7 +14,7 @@ const FullStackProjects = [
    ],
    [
       'formaker.com',
-      'https://formaker.aashishk.works/',
+      'https://formakercom.vercel.app/',
       'Generate dynamic forms & collect responses from anyone',
    ],
    [
@@ -24,12 +24,12 @@ const FullStackProjects = [
    ],
    [
       'schedule.com',
-      'https://schedule.aashishk.works/',
+      'https://schedule-com-phi.vercel.app/',
       'Project management tool, invite team, track tasks, and manage projects',
    ],
    [
       'chatify.com',
-      'https://chatify.aashishk.works/',
+      'https://chatify-com.vercel.app/',
       'Messaging platform for teams, communication through channels, DM, threads',
    ],
    [
